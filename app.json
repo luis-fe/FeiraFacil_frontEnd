@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "feirafacil_tmp",
-    "slug": "feirafacil_tmp",
+    "name": "FeiraFácil",
+    "slug": "feirafacil",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
